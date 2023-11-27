@@ -5,7 +5,7 @@
 
 ## Контакты:
 
-- **Телефон, Viber:** +375 29 62 30 260;
+- **Телефон, Viber, WhatsApp:** +375 29 62 30 260;
 - **E-mail:** stanislavr999@gmail.com.
 <!-- - **LinkedIn** . -->
 
