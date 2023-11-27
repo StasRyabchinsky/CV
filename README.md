@@ -1,1 +1,1 @@
-https://StasRyabchinsky.github.io/CV
+https://StasRyabchinsky.github.io/CV/cv
