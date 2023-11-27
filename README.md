@@ -1,1 +1,1 @@
-https://StasRyabchinsky.github.io/CV/cv
+https://github.com/StasRyabchinsky/CV/blob/master/cv.md
