@@ -35,6 +35,7 @@ Currently I work at EasyTech as a junior Frontend developer.
 - Ant Design;
 - Git/GitHub Basics;
 - Responsive/cross-browser layout;
+- Next.js;
 - BEM.
 
 ## Experience in projects:
@@ -53,6 +54,12 @@ Currently I work at EasyTech as a junior Frontend developer.
   - *Description* — Website layout using figma layout;
   - *Technology stack* - React, react-sticky-el, react intersection-observer, emailJS, CSS.
 
+- ### Recoding website (Eat&Meet)
+  - *Project duration* - 3 month;
+  - *Role* - Frontend developer;
+  - *Team size* - 6 developer;
+  - *Description* — SSR, Website layout using figma layout, admin layout;
+  - *Technology stack* - Next.js, React-portals, CSS.
 
 
 
